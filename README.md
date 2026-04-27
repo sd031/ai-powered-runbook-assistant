@@ -15,4 +15,3 @@ A production-ready RAG (Retrieval-Augmented Generation) app that ingests your te
 - **Slack bot** — Socket Mode bot responds to @mentions and DMs
 - **5 sample runbooks** — database outage, high CPU, deployment rollback, SSL expiry, on-call escalation
 - **Source citations** — every answer includes which runbook(s) were used
-# ai-powered-runbook-assistant
